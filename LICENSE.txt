@@ -1,6 +1,10 @@
 MIT License
 
-Copyright (c) [year] [fullname]
+Copyright (c) 2026 Patrik Kindl
+
+---
+
+## 🇬🇧 Official License (EN)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +23,24 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+## 🇨🇿 Neoficiální překlad (CZ)
+
+Tímto se bezplatně uděluje oprávnění každé osobě, která získá kopii
+tohoto softwaru a související dokumentace (dále jen „Software“), nakládat
+se Softwarem bez omezení, včetně práv na používání, kopírování, úpravy,
+slučování, publikování, distribuci, sublicencování a/nebo prodej kopií
+Software, a umožnit osobám, kterým je Software poskytnut, aby tak činily,
+za následujících podmínek:
+
+Výše uvedené upozornění o autorských právech a toto oprávnění musí být
+zahrnuto ve všech kopiích nebo podstatných částech Software.
+
+SOFTWARE JE POSKYTOVÁN „TAK JAK JE“, BEZ JAKÉKOLI ZÁRUKY, VÝSLOVNÉ ANI
+IMPLICITNÍ, VČETNĚ, ALE NEJEN, ZÁRUK PRODEJNOSTI, VHODNOSTI PRO KONKRÉTNÍ
+ÚČEL A NEPORUŠENÍ PRÁV TŘETÍCH STRAN. AUTOŘI ANI DRŽITELÉ AUTORSKÝCH PRÁV
+NENESOU V ŽÁDNÉM PŘÍPADĚ ODPOVĚDNOST ZA JAKÉKOLI NÁROKY, ŠKODY NEBO JINOU
+ODPOVĚDNOST, AŤ UŽ VZNIKLÉ ZE SMLOUVY, DELIKTU NEBO JINAK, V SOUVISLOSTI
+SE SOFTWAREM NEBO JEHO POUŽÍVÁNÍM.
