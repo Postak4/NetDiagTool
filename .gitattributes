@@ -1,0 +1,63 @@
+# =========================
+
+# Line endings
+
+# =========================
+
+# Auto-detect text files and normalize to LF in repo
+
+* text=auto
+
+# Force consistent line endings for source files
+
+*.cs     text eol=lf
+*.csproj text eol=lf
+*.sln    text eol=lf
+*.json   text eol=lf
+*.xml    text eol=lf
+*.md     text eol=lf
+
+# Scripts (if added later)
+
+*.ps1    text eol=crlf
+*.bat    text eol=crlf
+*.sh     text eol=lf
+
+# =========================
+
+# Binary files
+
+# =========================
+
+# Images
+
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+
+# Build / compiled
+
+*.dll binary
+*.exe binary
+*.pdb binary
+
+# Archives
+
+*.zip binary
+*.rar binary
+
+# =========================
+
+# Diff behavior
+
+# =========================
+
+# C# diff (optional but nice)
+
+*.cs diff=csharp
+
+# Markdown readable diff
+
+*.md diff=markdown
